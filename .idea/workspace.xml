@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8c13150-dea3-4de2-96eb-70eb3eeb8958" name="Changes" comment="" />
+    <list default="true" id="b8c13150-dea3-4de2-96eb-70eb3eeb8958" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Homework_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homework_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Homework_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Homework_4.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +62,30 @@
       <option name="presentableId" value="Default" />
       <updated>1634458345164</updated>
     </task>
+    <task id="LOCAL-00001" summary="deleted unnecessary import">
+      <created>1634470517608</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634470517609</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="deleted unnecessary import" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted unnecessary import" />
   </component>
 </project>

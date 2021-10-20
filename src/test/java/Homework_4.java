@@ -13,9 +13,9 @@ public class Homework_4 {
     public void test_case_1(){
         WebDriverManager.chromedriver().setup();
         Configuration.startMaximized = true;
-        Selenide.open("https://www.google.com/");
+        Selenide.open("https://en.wikipedia.org/wiki/Main_Page");
 
-        $(byClassName("gLFyf")).setValue("wikipedia").pressEnter();
+        $(byClassName("vector-search-box-input")).setValue("georgia").pressEnter();
         sleep(5000);
     }
 
