@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8c13150-dea3-4de2-96eb-70eb3eeb8958" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Homework_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Homework_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Homework_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Homework_4.class" afterDir="false" />
-    </list>
+    <list default="true" id="b8c13150-dea3-4de2-96eb-70eb3eeb8958" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +65,21 @@
       <option name="project" value="LOCAL" />
       <updated>1634470517609</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added gitignore">
+      <created>1634746450505</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634746450505</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added gitignore">
+      <created>1634746580002</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634746580002</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="deleted unnecessary import" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleted unnecessary import" />
+    <MESSAGE value="added gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="added gitignore" />
   </component>
 </project>
